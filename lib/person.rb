@@ -1,5 +1,5 @@
 person.new
 def initialize (person)
-  person.initialize : "name"
+  person.initialize : @name
   puts name
 end
